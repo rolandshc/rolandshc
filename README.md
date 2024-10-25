@@ -1,6 +1,6 @@
 # Tere, ma olen Roland Shum 🤝🏻
 
-My name is [Roland Shum](https://www.linkedin.com/in/rolandshum/). Summing myself up in a few words might be a tall order, but here’s a bit of personal propaganda:
+Summing myself up in a few words might be a tall order, but here’s a bit of personal propaganda:
 
 I’m currently working as a Senior Software Quality Engineer in [Malwarebytes](https://www.malwarebytes.com/) <a href="https://www.malwarebytes.com/">
   <img src="https://cdn3.emoji.gg/emojis/4760_malwarebytes.png" width="20" height="20" alt="malwarebytes"></a>, where I am building up test automation on iOS  to catch bugs.
