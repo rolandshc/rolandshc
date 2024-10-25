@@ -1,3 +1,5 @@
+## Tere
+
 My name is [Roland Shum](https://www.linkedin.com/in/rolandshum/). Summing myself up in a few words might be a tall order, but here’s a bit of personal propaganda:
 
 I’m currently working as a Senior Software Quality Engineer in [Malwarebytes](https://www.malwarebytes.com/), where I am building up test automation on iOS  to catch bugs.
@@ -9,3 +11,42 @@ I tinker with code and share my projects here on GitHub, often exploring Test Au
 You’ll find my latest thoughts and updates on [rolandshum.com](https://rolandshum.com).
 
 If you’re interested in connecting, you can find me on [linkedin](https://www.linkedin.com/in/rolandshum/).
+
+## Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- Swift
+- Dart
+- C#
+
+### Apple Native Development
+- SwiftUI
+- RealityKit
+- SceneKit
+- Metal
+
+### Cross-platform Development
+- Unity
+- Flutter
+
+### Testing
+- Selenium
+- Appium
+- Playwright
+- Mocha
+- Pytest
+- Cucumber
+- Behave
+
+### CICD
+- Github Action
+- CircleCI
+- Xcode Cloud
+- Azure Devops
+- Docker
+
+### Cloud
+- AWS
+- Google Firebase
