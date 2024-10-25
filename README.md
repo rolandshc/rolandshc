@@ -1,4 +1,4 @@
-## Tere 🤝🏻
+# Tere, ma olen Roland Shum 🤝🏻
 
 My name is [Roland Shum](https://www.linkedin.com/in/rolandshum/). Summing myself up in a few words might be a tall order, but here’s a bit of personal propaganda:
 
