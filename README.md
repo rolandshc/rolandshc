@@ -14,20 +14,14 @@ If you’re interested in connecting, you can find me on [linkedin](https://www.
 
 ## Tech Stack
 
-### Languages
 Python . JavaScript . Swift . Dart . C#
 
-### Apple Native Development
 SwiftUI . RealityKit . SceneKit . Metal
 
-### Cross-platform Development
 Unity . Flutter
 
-### Testing
 Selenium . Appium . Playwright . Mocha . Pytest . Cucumber . Behave
 
-### CICD
 Github Action . CircleCI . Xcode Cloud . Azure Devops . Docker
 
-### Cloud
 AWS . Google Firebase
