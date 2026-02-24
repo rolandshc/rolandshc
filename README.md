@@ -1,4 +1,4 @@
-# Tere, ma olen Roland Shum 🤝🏻
+# Hej! 🤝🏻
 
 Summing myself up in a few words might be a tall order, but here’s a bit of personal propaganda:
 
